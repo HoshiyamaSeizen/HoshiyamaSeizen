@@ -1,16 +1,59 @@
-### Hi there 👋
+### Hi there 👋 Nazar here!
 
-<!--
-**HoshiyamaSeizen/HoshiyamaSeizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web-development enthusiast
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/-%40ho4yama-%230088cc?style=flat-square&logo=telegram)](https://t.me/ho4yama)
+[![](https://img.shields.io/badge/-%40hoshiyama-%234C75A3?style=flat-square&logo=vk)](https://vk.com/hoshiyama)
+[![](https://img.shields.io/badge/-%40HoshiyamaSeizen-%2324292e?style=flat-square&logo=github)](https://github.com/HoshiyamaSeizen)
+[![](https://img.shields.io/badge/-%40HoshiyamaSeizen-%23171a21?style=flat-square&logo=shikimori)](https://shikimori.one/Hoshiyama+Seizen)
+[![](https://img.shields.io/badge/-%40seizen-%23171a21?style=flat-square&logo=steam)](https://steamcommunity.com/id/seizen/)
+[![Static Badge](https://img.shields.io/badge/-%40h0shiyama-%23171515?style=flat-square&logo=roblox)](https://www.roblox.com/users/3020128644/profile)
+[![](https://img.shields.io/badge/-%40Hoshiyama__Seizen-%23131f24?style=flat-square&logo=duolingo)](https://www.duolingo.com/profile/Hoshiyama_Seizen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 𝚃𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝙸 𝚕𝚘𝚟𝚎
+
+- 🖥️ Programming
+- 💢 Anime & Manga
+- 🎮 Videogames
+- 🐸 Memes
+
+## 𝙼𝚢 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
+
+![](https://img.shields.io/badge/-HTML5-%23e34c26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-%232965f1?style=flat-square&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-JavaScript-%23F0DB4F?style=flat-square&logo=javascript&logoColor=%23323330)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-NodeJS-%2368a063?style=flat-square&logo=nodedotjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Express-%23393939?style=flat-square&logo=express)
+![Static Badge](https://img.shields.io/badge/-React-%23222222?style=flat-square&logo=react)
+![Static Badge](https://img.shields.io/badge/-Redux-%23764abc?style=flat-square&logo=redux)
+![Static Badge](https://img.shields.io/badge/-Next.js-%23030303?style=flat-square&logo=nextdotjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Vue-%2334495E?style=flat-square&logo=vuedotjs)
+![Static Badge](https://img.shields.io/badge/-SASS-%23c69?style=flat-square&logo=sass&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-PUG-%23EFCCA3?style=flat-square&logo=pug&logoColor=%2356332B)
+![Static Badge](https://img.shields.io/badge/-MongoDB-%234DB33D?style=flat-square&logo=mongodb&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Webpack-%231C78C0?style=flat-square&logo=webpack&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Docker-%230db7ed?style=flat-square&logo=docker&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Git-%23F1502F?style=flat-square&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-GitHub-%23171515?style=flat-square&logo=github)
+![Static Badge](https://img.shields.io/badge/-Font%20Awesome-%23193154?style=flat-square&logo=fontawesome)
+![Static Badge](https://img.shields.io/badge/-Google%20Fonts-%23196FE1?style=flat-square&logo=googlefonts&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+## 𝚂𝚝𝚊𝚝𝚜
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoshiyamaSeizen&hide_langs_below=1&theme=default&line_height=30&layout=compact" alt="Github Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HoshiyamaSeizen&show_icons=true&count_private=true&include_all_commits=true&line_height=20" alt="Github Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HoshiyamaSeizen&column=9" alt="Github Trophy" />
+</p>
+
+&nbsp;
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@HoshiyamaSeizen?theme=gelbooru" alt="visitors count" />
+  <p align="center"><i>𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 𝚌𝚘𝚞𝚗𝚝</i></p>
+</p>
+
+
