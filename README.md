@@ -52,7 +52,7 @@ Web-development enthusiast
 &nbsp;
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@HoshiyamaSeizen?theme=gelbooru" alt="visitors count" />
+  <img src="https://count.ayaya.beauty/get/@HoshiyamaSeizen?theme=gelbooru" alt="visitors count" />
   <p align="center"><i>𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 𝚌𝚘𝚞𝚗𝚝</i></p>
 </p>
 
